@@ -1,0 +1,269 @@
+{
+  "stores": [
+    {
+      "id": "Asics Shoes",
+      "items": [
+        {
+          "id": "gel-g",
+          "name": "Asics Gel-Game",
+          "price": "$2,200",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/Asics-Gel-Game-8-Shoes-Sizes-46-5-1000x1000.jpg",
+          "Overview": "Gel-Game 8 Shoes is an Asics shoe for men recommended for practicing sports activities such as tennis."
+        },
+        {
+          "id": "gel-r",
+          "name": "Asics Gel-Resolution",
+          "price": "$2,600",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/Asics-Gel-resolution-8-Shoes-Sizes-34-5-35-36-39-1000x1000.jpg",
+          "Overview": "The Asics Gel-Resolution 8 is part of the Asics shoe collection."
+        },
+        {
+          "id": "cou-s",
+          "name": "Asics Court Slide",
+          "price": "$2,000",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/546-1000x1000.jpg",
+          "Overview": "The COURT SLIDE 2  shoe blends lightweight comfort with improved stability."
+        },
+        {
+          "id": "upc",
+          "name": "Asics Upcourt",
+          "price": "$1,900",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/u53-1000x1000.jpg",
+          "Overview": "The ASICS Upcourt 5 is a lightweight children's shoe designed to offer flexibility and a comfortable fit."
+        },
+        {
+          "id": "grl-u",
+          "name": "ASICS Gel Upcourt PS Junior",
+          "price": "$1,650",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Squash/Asics/upcourt4/ASICS-Gel-upcourt-PS-Junior-shoes-Sizes-28-5-1000x1000.jpg",
+          "Overview": "Designed for indoor court athletes who are newer to the game."
+        },
+        {
+          "id": "grl-b",
+          "name": "Asics Gel-Blade",
+          "price": "$2,800",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/Asics-Gel-blade-Shoes-Sizes-37-37-5-38-39-39-5-40-42-1000x1000.jpg",
+          "Overview": "The ASICS GEL-Blade 8 for women is an indoor shoe specifically designed for athletes who must constantly call upon their mobility during their game."
+        }
+      ]
+    },
+    {
+      "id": "Squash",
+      "items": [
+        {
+          "id": "ten-c",
+          "name": "Tecnifibre Carboflex 125 X-Top",
+          "price": "$5,200",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/Tecnifibre-Carboflex-125-X-Top-1000x1000.jpg",
+          "Overview": "efinitely iconic, the Carboflex 125 X-TOP racquet is one of the models."
+        },
+        {
+          "id": "ten-t",
+          "name": "Tecnifibre Tour BackPack",
+          "price": "$2,200",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Squash/Tecnifibre/Bags/Backpack/Tecnifibre-Tour-BackPack-1000x1000.jpg",
+          "Overview": "Carry your gear on court and off court."
+        },
+        {
+          "id": "ten-e",
+          "name": "Tecnifibre Eye Protection Glasses Blue Red",
+          "price": "$950",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Squash/Tecnifibre/Accessories/Protection%20Glasses/Tecnifibre-Eye-Protection-Glasses-Blue-Red-1000x1000.jpg",
+          "Overview": "Tecnifibre Racketball Goggles and Protective Eye-wear."
+        },
+        {
+          "id": "dun-p",
+          "name": "Dunlop Pro PU Replacement Grips",
+          "price": "$90",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Squash/Dunlop/Grip/Dunlop-Pro-PU-Replacement-Grips-1000x1000.jpg",
+          "Overview": "Stay in control on court Keep a tight grip on your racket with these premium, non-slip ultra-absorbent replacements."
+        },
+        {
+          "id": "rox-o",
+          "name": "Rox Onsi Pro 2021 Squash Racket - Arox 125gram",
+          "price": "$1,650",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Squash/Rox/2021/Rox-Onsi-Pro-2021-Squash-Racket-Arox-125gram-1000x1000.png",
+          "Overview": "Suitable for Beginner or Week End Players who looking for power racket."
+        },
+        {
+          "id": "son-c",
+          "name": "Sonic Core Revelation JNR",
+          "price": "$1,500",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/Sonic-Core-Revelation-JNR-1000x1000.jpg",
+          "Overview": "This 25-inch junior version of the Revelation 125 is a lightweight, powerful racket, ideal for advanced juniors."
+        }
+      ]
+    },
+    {
+      "id": "Tennis",
+      "items": [
+        {
+          "id": "bab-p",
+          "name": "Babolat Pure Aero Lite Ultimate Spin 2021 Strung 270 Gram Tennis Racket- Without Cover",
+          "price": "$5,000",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Tennis/Babolat/Pro%20Racquets/Aero/Babolat-Pure-Aero-Jr-25-Strung-240-gram-Tennis-Racket-1000x1000.jpg",
+          "Overview": "Head Size: 100 in² / 645 cm². Length: 27in / 68,5cm. Strung Weight: 286g / 10,1oz."
+        },
+        {
+          "id": "dun-s",
+          "name": "Dunlop Srixon FX 500 Lite - 270 Gram Unstrung Tennis Racket",
+          "price": "$2,500",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Tennis/%20Dunlop/Rackets/2021/FX500/Dunlop-Srixon-FX-500-Lite-270-gram-Unstrung-Tennis-racket-1000x1000.jpg",
+          "Overview": "The Dunlop Srixon FX 500 Lite tennis racket is ideal for the player."
+        },
+        {
+          "id": "dun-r",
+          "name": "Dunlop Rapid Power 3.0",
+          "price": "$2,500",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/Dunlop-Rapid-Power-3-0-1000x1000.jpg",
+          "Overview": "The Dunlop Srixon FX 500 Lite tennis racket is ideal for the player."
+        },
+        {
+          "id": "dun-s",
+          "name": "Dunlop Srixon SX 300 Lite - 285 Gram Unstrung Tennis Racket",
+          "price": "$3,250",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Tennis/%20Dunlop/Rackets/2021/SX300/Dunlop-Srixon-SX-300-Lite-285-gram-Unstrung-Tennis-racket-1000x1000.jpg",
+          "Overview": "Dunlop Srixon SX 300 Lite has all the properties of the SX 300."
+        },
+        {
+          "id": "dun-i",
+          "name": "Dunlop Sirxon FX 500 - 285 Gram Unstrung Tennis Racket",
+          "price": "$2,850",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Tennis/%20Dunlop/Rackets/2021/FX500/Dunlop-Srixon-FX-500-Lite-270-gram-Unstrung-Tennis-racket-1000x1000.jpg",
+          "Overview": "The Dunlop Fx 500 racquet is perfect for players looking for a racquet that offers power and spin while providing maximum comfort in play."
+        },
+        {
+          "id": "bab-c",
+          "name": "Babolat CUSTOM DAMP2",
+          "price": "$30",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/data/Products/Tennis/Babolat/Accessories/Babolat-CUSTOM-DAMP2-1000x1000.jpeg",
+          "Overview": "The Custom Damp allows players to adjust the dampening effects to fit their personal preferences."
+        }
+      ]
+    },
+    {
+      "id": "Swimming",
+      "items": [
+        {
+          "id": "yin-m",
+          "name": "Yingfa Men Racing Proffessional Comp 9402 Jammar Red",
+          "price": "$630",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Swimming/Swimsuit/Yingfa/9402/Yingfa-Men-Racing-Proffessional-Comp-9402-Jammar-Red-1000x1000.jpg",
+          "Overview": "Ideal for Racing and competitive swimmers."
+        },
+        {
+          "id": "are-w",
+          "name": "Arena Women One Lucky Star One Piece",
+          "price": "$1,380",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Swimming/Swimsuit/Arena/Arena-Women-One-Lucky-Star-One-Piece-1000x1000.jpg",
+          "Overview": "One-piece. Patterned allover with a swirling motif, this women’s swimsuit is made from a single piece of fabric with no side seams for a second skin feel."
+        },
+        {
+          "id": "are-b",
+          "name": "Arena Boys Scary Jr Jammer Black",
+          "price": "$860",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Swimming/Swimsuit/Arena/Scary/Arena-Boys-Scary-Jr-Jammer-Black-1000x1000.jpeg",
+          "Overview": "Ideal for Racing and competitive young swimmers."
+        },
+        {
+          "id": "are-p",
+          "name": "Arena Power Triangle Black",
+          "price": "$1,780",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Swimming/Swimsuit/Arena/Arena-Power-Triangle-Black-1000x1000.jpg",
+          "Overview": "Plunge into your swim routine with a swimsuit inspired by racing tech suits."
+        },
+        {
+          "id": "are-o",
+          "name": "Arena Women Striped Geo Pro Back One Piece Swimsuit",
+          "price": "$1,400",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Swimming/Swimsuit/Arena/women/Arena-Women-Striped-Geo-Pro-Back-One-Piece-Swimsuit-1000x1000.jpg",
+          "Overview": "Swim strong and stand out at the pool in this mesmerizing motif."
+        },
+        {
+          "id": "are-e",
+          "name": "Arena Men Earth Texture Jammar",
+          "price": "$1,300",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Swimming/Swimsuit/Arena/Men/Arena-Men-Earth-Texture-Jammar-1-1000x1000.jpg",
+          "Overview": "Ideal for Racing and competitive swimmers."
+        }
+      ]
+    },
+    {
+      "id": "Fitness",
+      "items": [
+        {
+          "id": "liv-t",
+          "name": "Liveup Toning Tube Light Resistance Band,Pink",
+          "price": "$110",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/data/Products/Fitness/Liveup/Liveup-Toning-Tube-Light-Resistance-Band-Pink-1000x1000.jpg",
+          "Overview": "Different resistance levels available. Foam Padded handles for comfort. Tone and sculpt every muscle group."
+        },
+        {
+          "id": "liv-d",
+          "name": "Liveup Digital Jump Rope - LS3123",
+          "price": "$150",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Fitness/Liveup/Jump%20Rope/Liveup-Digital-Jump-Rope-LS3123-1000x1000.jpg",
+          "Overview": "This LiveUp LS3123 jump rope comes with an inbuilt calorie meter which shows the amount of calorie burnt."
+        },
+        {
+          "id": "liv-x",
+          "name": "Liveup Hex Rubber Dumbbell 3 Kg X 1",
+          "price": "$165",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/data/Products/Fitness/Liveup/Liveup-Hex-Rubber-Dumbbell-2Kg-x-1-1000x1000.jpg",
+          "Overview": "LiveUp LS2021 high quality rubber-coated hex shaped dumbbells. Suitable for commercial and home use."
+        },
+        {
+          "id": "liv-m",
+          "name": "Liveup Mobile Phone Arm Band (LS3720B) Size L/XL",
+          "price": "$90",
+          "rate": "🔸🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/catalog/data/Products/Fitness/Liveup/Gloves/armbandluindex-1000x1000.jpg",
+          "Overview": "Exclusive Anti-Slip Texture allows the armband to stay snug and your skin to breathe."
+        },
+        {
+          "id": "ank-w",
+          "name": "Ankle/Wrist Weight 1KG X 2 PC",
+          "price": "$175",
+          "rate": "🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/data/Products/Fitness/new/Fitness-Handle-Wrist-Ankle-Weight.jpg-1000x1000.png",
+          "Overview": "Ideal for jogging, aerobic classes or toning exercises. Neoprene fabric covered with full Velcro closure straps."
+        },
+        {
+          "id": "tra-g",
+          "name": "Training Gloves",
+          "price": "$120",
+          "rate": "🔸🔸🔸🔸",
+          "pic": "https://sportsshopegypt.com/image/cache/data/Products/Fitness/new/Training-Gloves-1000x1000.jpg",
+          "Overview": "Convenient. Environmental. Comfortable. Professiona."
+        }
+      ]
+    }
+  ]
+}

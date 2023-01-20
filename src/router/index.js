@@ -10,14 +10,10 @@ const routes = [
     component: () => import("../views/ItemList.vue"),
   },
   {
-    path: "/details/:itemId",
+    path: "/details/:storeId",
     name: "ItemsDetails",
     component: () => import("../components/ItemsDetails.vue"),
-  },
-  {
-    path: "/cart",
-    component: () => import("../components/UserCart.vue"),
-  },
+  }
 ];
 
 const router = createRouter({

@@ -1,7 +1,8 @@
 <template>
+  <ion-content class="ion-padding">
   <ion-header>
     <ion-toolbar>
-      <ion-title>⚽Sporting Store⚽</ion-title>
+      <ion-title>Sporting Store</ion-title>
     </ion-toolbar>
   </ion-header>
 
@@ -9,22 +10,20 @@
 
   <ion-list v-for="store in stores" :key="store">
     <ion-item>
-      <ion-label>{{ store.id }}</ion-label>
-      <ion-button
+      <ion-label
         @click="
-          $router.push({ name: 'ItemsDetails', params: { itemId: store.id } })
+          $router.push({ name: 'ItemsDetails', params: { storeId: store.id } })
         "
+        >{{ store.id }}</ion-label
       >
-        <i class="fa-regular fa-eye"></i>
-      </ion-button>
     </ion-item>
   </ion-list>
 
-  <ion-content>
-    <ion-footer>
+  
+    <ion-footer class="ion-margin-vertical">
       <ion-toolbar>
-        <ion-button @click="presentAlert">Request Now</ion-button>
-        <ion-button @click="presentAlarm">Contact Us</ion-button>
+        <ion-button class="ion-margin" @click="presentAlert">Request Now</ion-button>
+        <ion-button class="ion-margin" @click="presentAlarm">Contact Us</ion-button>
       </ion-toolbar>
     </ion-footer>
   </ion-content>
@@ -109,8 +108,21 @@ export default {
 </script>
 
 <style scoped>
+ion-title{
+  color: var(--ion-color-success);
+}
+
 ion-header,
 h1 {
   text-align: center;
+  color: var(--ion-color-warning);
+}
+
+ion-label {
+  text-align: center;
+}
+
+ion-button {
+  display: block; 
 }
 </style>

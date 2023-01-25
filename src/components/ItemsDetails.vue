@@ -1,4 +1,5 @@
 <template>
+  <ion-page>
   <ion-content>
     <ion-button router-link="/items-list" class="ion-margin-horizontal">
       <i class="fa-solid fa-arrow-left"></i>
@@ -58,10 +59,12 @@
       </ion-row>
     </ion-grid>
   </ion-content>
+</ion-page>
 </template>
 
 <script>
 import {
+  IonPage,
   IonGrid,
   IonRow,
   IonCol,
@@ -84,6 +87,7 @@ import storeData from "../assets/database.json";
 
 export default {
   components: {
+    IonPage,
     IonGrid,
     IonRow,
     IonCol,

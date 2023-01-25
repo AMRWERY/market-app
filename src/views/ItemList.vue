@@ -1,4 +1,5 @@
 <template>
+  <ion-page>
   <ion-content class="ion-padding">
   <ion-header>
     <ion-toolbar>
@@ -16,6 +17,7 @@
         "
         >{{ store.id }}</ion-label
       >
+      
     </ion-item>
   </ion-list>
 
@@ -27,10 +29,12 @@
       </ion-toolbar>
     </ion-footer>
   </ion-content>
+</ion-page>
 </template>
 
 <script>
 import {
+  IonPage,
   IonContent,
   IonHeader,
   IonTitle,
@@ -38,11 +42,15 @@ import {
   IonFooter,
   IonButton,
   alertController,
+  useBackButton,
+  useIonRouter
 } from "@ionic/vue";
+import { App } from '@capacitor/app';
 import storeData from "../assets/database.json";
 
 export default {
   components: {
+    IonPage,
     IonContent,
     IonHeader,
     IonTitle,
@@ -101,6 +109,13 @@ export default {
 
       await alert.present();
     };
+
+    const ionRouter = useIonRouter();
+    useBackButton(-1, () => {
+      if (!ionRouter.canGoBack()) {
+        App.exitApp();
+      }
+    });
 
     return { presentAlert, presentAlarm };
   },
